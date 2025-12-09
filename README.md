@@ -1,4 +1,5 @@
 # TravelPlanner
+Por: Sebastian Clavijo, Nicolas Caucali, Luis Rodriguez
 1. Descargue el archivo .zip "SistemaViajes.zip"
 2. Descomprima este archivo.
 3. En VisualStudioCode abra la carpeta "SistemaViajes"
